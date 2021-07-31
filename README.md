@@ -1,6 +1,6 @@
 ### Hi there, I'm priyanka  👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fsunnypriyanka.github.io)](https://sunnypriyanka.github.io/)
+[![Website](https://img.shields.io/badge/Portfolio%20-https%3A%2F%2Fsunnypriyanka.github.io%2F-brightgreen)](https://sunnypriyanka.github.io/)
 
 
 ## I'm a student!!
