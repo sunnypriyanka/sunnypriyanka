@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking job Opportunity
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to draw and crafts.
 
 
 ### Connect with me:
